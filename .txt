@@ -1,0 +1,61 @@
+{
+  "_id": {
+    "$oid": "66e044aaa9ca12985c306746"
+  },
+  "username": "rlxBh_",
+  "refrelUserName": "9by7dbI6-",
+  "first_name": "F",
+  "last_name": "K1",
+  "email": "gasid11788@coloruz.com",
+  "password": "$2a$12$oDMLdr8lTkF7PfWElL1TZ.qStud7siRLUwAnIHSSEr1Q5/t5lty9W",
+  "phone_number": 3287655665,
+  "team_member": [
+    {
+      "$oid": "66e0465da9ca12985c306809"
+    }
+  ],
+  "YourHeadReferBy": [
+    {
+      "$oid": "66e044aaa9ca12985c306746"
+    },
+    {
+      "$oid": "66d5b70f99bf384396f60019"
+    }
+  ],
+  "YourHead": "66d5b70f99bf384396f60019",
+  "country": "PK",
+  "city": "LHR",
+  "role": [
+    "Member",
+    "Head"
+  ],
+  "pin": [
+    "UnPined"
+  ],
+  "balance": 2.1,
+  "direct": 1.6,
+  "Indirect": 0,
+  "totalAmount": 20,
+  "UserLevel": [],
+  "WithDrawLimit": 100,
+  "checkCode": "",
+  "resetCode": "",
+  "userLevel": [
+    {
+      "userId": "66e0465da9ca12985c306809",
+      "level": 1,
+      "_id": {
+        "$oid": "66e04671a9ca12985c30680f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-09-10T13:07:54.285Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T13:17:22.783Z"
+  },
+  "__v": 1,
+  "stacking": 0,
+  "profitShare": 0
+}
